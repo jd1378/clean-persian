@@ -1,13 +1,13 @@
-# strip-persian
+# clean-persian
 
 removes all diacritics from the given string. preserves persian and english letters and numbers.
 
 ## usage
 
 ```bash
-npm i strip-persian
+npm i clean-persian
 # or
-yarn add strip-persian
+yarn add clean-persian
 ```
 
 ```js
